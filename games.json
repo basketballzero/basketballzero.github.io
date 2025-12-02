@@ -3,5 +3,40 @@
         "name": "Basketball: Zero",
         "slug": "basketball-zero",
         "image": "/cache/data/image/game/basketball-zero/basketball-zero-m186x186.webp"
+    },
+    {
+        "name": "Basketball Stars",
+        "slug": "basketball-stars",
+        "image": "/cache/data/image/game/basketball-stars/basketball-stars-m186x186.webp"
+    },
+    {
+        "name": "BasketBros",
+        "slug": "basketbros",
+        "image": "/cache/data/image/game/basketbros/basketbros-2-m186x186.webp"
+    },
+    {
+        "name": "Doodle Basketball",
+        "slug": "doodle-basketball",
+        "image": "/cache/data/image/game/doodle-basketball/doodle-basketball-m186x186.webp"
+    },
+    {
+        "name": "Basketball Superstars",
+        "slug": "basketball-superstars",
+        "image": "/cache/data/image/game/basketball-superstars/basketball-superstars-2-m186x186.webp"
+    },
+    {
+        "name": "Dunk Dash",
+        "slug": "dunk-dash",
+        "image": "/cache/data/image/game/dunk-dash/dunk-dash-m186x186.webp"
+    },
+    {
+        "name": "Hoop Legends",
+        "slug": "hoop-legends",
+        "image": "/cache/data/image/game/hoop-legends/hoop-legends-m186x186.webp"
+    },
+    {
+        "name": "Basketball FRVR",
+        "slug": "basketball-frvr",
+        "image": "/cache/data/image/game/basketball-frvr/basketball-frvr-m186x186.webp"
     }
 ]
